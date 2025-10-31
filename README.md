@@ -15,7 +15,13 @@ Account = Account WAF: Edit, Account Rulesets: Edit, Account Filter Lists: Edit
 
 Zone = DNS Settings: Edit, Cache Rules: Edit, Bot Management: Edit, Zone WAF: Edit, Zone Settings: Edit, Firewall Services: Edit, DNS: Edit
 
+<img width="1089" height="585" alt="image" src="https://github.com/user-attachments/assets/eaae33ca-1df7-4178-b520-57e094f4c6fe" />
+
+
 ## What the code actually deploys:
+
+<img width="583" height="313" alt="Code_Cg5mocPidP" src="https://github.com/user-attachments/assets/41513db1-97f9-4944-a095-249e5294baf4" />
+
 
 ## DNS Settings:
 
